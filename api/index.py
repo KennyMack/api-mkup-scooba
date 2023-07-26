@@ -1,5 +1,5 @@
 from api.entities import Locations
-from flask import Flask
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
@@ -12,9 +12,13 @@ def about():
     return 'About'
 
 @app.route("/locations")
-def summary():
-    d = Locations()
+def locations():
+    data = {'name': 'Burger king', 'address': 'rua 1', 'image': 'image 1'}
+    return jsonify(data), 200
+    """d = Locations(
+
+    )
     d.name = 'ABC',
     d.address = 'avc'
     d.image = 'vvv'
-    return d
+    return d"""
