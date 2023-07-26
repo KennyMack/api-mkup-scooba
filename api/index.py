@@ -15,10 +15,3 @@ def about():
 def locations():
     data = {'name': 'Burger king', 'address': 'rua 1', 'image': 'image 1'}
     return jsonify(data), 200
-    """d = Locations(
-
-    )
-    d.name = 'ABC',
-    d.address = 'avc'
-    d.image = 'vvv'
-    return d"""
