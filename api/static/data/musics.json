@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://imusic.b-cdn.net/images/item/original/925/0090771103925.jpg?tornadoes-2018-beyond-the-surf-cd&class=scaled&v=1100348191",
+    "name": "Bustin'Surfboards",
+    "artist": "The Tornadoes",
+    "album": "The Tornadoes"
+  },
+  {
+    "id": 2,
+    "image": "https://imusic.b-cdn.net/images/item/original/254/0602438813254.jpg?ghost-2022-impera-lp&class=scaled&v=1642750952",
+    "name": "Call me little sunshine",
+    "album": "Impera",
+    "artist": "Ghost"
+  },
+  {
+    "id": 3,
+    "image": "https://imusic.b-cdn.net/images/item/original/729/0075992725729.jpg?america-1972-america-cd&class=scaled&v=1087727151",
+    "name": "A horse with no name",
+    "album": "America",
+    "artist": "America"
+  },
+  {
+    "id": 4,
+    "image": "https://imusic.b-cdn.net/images/item/original/819/4050538793819.jpg?rick-astley-2022-whenever-you-need-somebody-cd&class=scaled&v=1650890258",
+    "name": "Never Gonna Give You Up",
+    "album": "Whenever You Need Somebody",
+    "artist": "Rick Astley"
+  }
+
+  
+]

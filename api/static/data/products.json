@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Franzen briefcase",
+    "image": "",
+    "price": 1000
+  },
+  {
+    "id": 1,
+    "name": "Wallet bad mother F*cker",
+    "image": "https://m.media-amazon.com/images/I/91nOZFXmhfL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "price": 60
+  },
+  {
+    "id": 1,
+    "name": "Narcisse swiss - pocket watch",
+    "image": "https://i.ebayimg.com/images/g/B8gAAOSw1XBkSycd/s-l1600.png",
+    "price": 450
+  },
+  {
+    "id": 1,
+    "name": "Harley-Davidson FXR Super glide",
+    "image": "https://www.cycleworld.com/resizer/Imt_N6ZNIMN5UthlADVNGlvxLf4=/600x352/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/P4XSSTIVB4CSRZRYSBGIIPOLM4.jpg",
+    "price": 29000
+  },
+  {
+    "id": 1,
+    "name": "Chevy malibu 1965",
+    "image": "https://assets.rebelmouse.io/media-library/image.jpg",
+    "price": 30000
+  }
+
+]

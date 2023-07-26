@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "BigMac",
+    "price": 15.00,
+    "image": "cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXCTbnv/200/200/original"
+  },
+  {
+    "id": 2,
+    "name": "French Fries",
+    "price": 2.00,
+    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kUXVg4F7/200/200/original"
+  },
+  {
+    "id": 3,
+    "name": "Quarter pounder with cheese",
+    "price": 12.90,
+    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXNUCF7/200/200/original"
+  },
+  {
+    "id": 4,
+    "name": "Maple Bacon Chicken Croissant Combo",
+    "price": 12.00,
+    "image": "https://app.wendys.com/unified/assets/menu/pg-cropped/835_medium_US_en.png"
+  },
+  {
+    "id": 5,
+    "name": "Pepperoni pizza",
+    "price": 19.00,
+    "image": "https://www.pizzahut.com/assets/w/tile/thor/pizza_Pepperoni_Lovers.png"
+  },
+  {
+    "id": 6,
+    "name": "Bacon Cheeseburguer",
+    "price": 18.00,
+    "image": "https://i2-prod.devonlive.com/news/devon-news/article3471234.ece/ALTERNATES/s810/0_FG1.jpg"
+  }
+]

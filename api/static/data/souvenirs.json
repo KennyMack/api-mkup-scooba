@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Souvenir 1",
+    "detail": "Detail souvenir",
+    "price": 50.00,
+    "image": "https://i.etsystatic.com/8961412/r/il/49c63a/2044382370/il_1588xN.2044382370_90rl.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Souvenir 2",
+    "detail": "Detail souvenir",
+    "price": 18.00,
+    "image": "https://i.etsystatic.com/8961412/r/il/49c63a/2044382370/il_1588xN.2044382370_90rl.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Souvenir 3",
+    "detail": "Detail souvenir",
+    "price": 21.00,
+    "image": "https://i.etsystatic.com/8961412/r/il/49c63a/2044382370/il_1588xN.2044382370_90rl.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Souvenir 4",
+    "detail": "Detail souvenir",
+    "price": 22.00,
+    "image": "https://i.etsystatic.com/8961412/r/il/49c63a/2044382370/il_1588xN.2044382370_90rl.jpg"
+  }
+]
