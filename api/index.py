@@ -1,5 +1,6 @@
+import os
+from flask import Flask, render_template, json, jsonify
 from api.entities import Locations
-from flask import Flask, jsonify
 
 app = Flask(__name__)
 
@@ -7,11 +8,9 @@ app = Flask(__name__)
 def home():
     return 'Hello, World!'
 
-@app.route('/about')
-def about():
-    return 'About'
-
 @app.route("/locations")
 def locations():
-    data = {'name': 'Burger king', 'address': 'rua 1', 'image': 'image 1'}
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = os.path.join(SITE_ROOT, "static/data", "locations.json")
+    data = json.load(open(json_url))
     return jsonify(data), 200
